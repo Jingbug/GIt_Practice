@@ -1,4 +1,4 @@
-// 성연
+// 성연 1
 public class Main1 {
 	//
 }
