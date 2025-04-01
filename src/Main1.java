@@ -1,4 +1,4 @@
-// 성연 sex
+// 성연 d
 public class Main1 {
 	//
 }
